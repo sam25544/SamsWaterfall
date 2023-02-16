@@ -11,6 +11,7 @@ Currently supported:
 - RS84
 - TR107
 - H-1C/D
+- LR79 Family (RS-27)
 - E-1
 
 Make sure to remove the old version of the Shuttle Ethalox variants patch for the new one with the plumes to work properly.
