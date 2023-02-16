@@ -1,0 +1,8 @@
+CC-BY-NC-SA 4.0
+
+Template Credits:
+- BDB F1 lessFireball and lessFilm are based on "BDB_F1_Film" by the BDB team.
+- NFLV CH4 RCS plumes are from Near Future Launch Vehicles by Nertea.
+- Templates labeled "stock-" are from Stock Waterfall Effects by Knight of Saint John.
+This is a config set for Waterfall made by Nertea. 
+All of the above are also licensed CC-BY-NC-SA 4.0.
